@@ -1,12 +1,11 @@
 # Site settings
-title: Mount Sinai Health System Faculty of Color Network
+title: Mount Sinai Faculty of Color Network
 email: ashley.fowler@mssm.edu
 description: > # this means to ignore newlines until "baseurl:"
    the website for MSSM FCON.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://diversifyyourscience.github.io" # the base hostname & protocol for your site
-twitter_username: 
-github_username: 
+url: "http://fcon.github.io" # the base hostname & protocol for your site
+
 array: []
 
 # Build settings
