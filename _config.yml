@@ -4,7 +4,7 @@ email: ashley.fowler@mssm.edu
 description: > # this means to ignore newlines until "baseurl:"
    The website for Icahn School of Medicine Faculty of Color Network.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mssmcmca.github.io/FCON.github.io/" # the base hostname & protocol for your site
+url: "mssmcmca.github.io/FCON.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  MSSMCMCA 
 array: []
