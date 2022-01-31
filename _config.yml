@@ -1,12 +1,12 @@
 # Site settings
-title: DiversifyMicrobiology
-email: diversifymicrobiology@gmail.com
+title: Icahn School of Medicine Faculty of Color Network
+email: ashley.fowler@mssm.edu
 description: > # this means to ignore newlines until "baseurl:"
-   The website for DiversifyMicrobiology.
+   The website for Icahn School of Medicine Faculty of Color Network.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fcon.github.io" # the base hostname & protocol for your site
-twitter_username: DiversifyMicro
-github_username:  diversifymicrobiology 
+url: "https://mssmcmca.github.io/FCON.github.io/" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  MSSMCMCA 
 array: []
 
 # Build settings
