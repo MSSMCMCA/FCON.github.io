@@ -12,5 +12,6 @@ title: Join the FCON Database
 
 [Complete form here](https://docs.google.com/forms/d/e/1FAIpQLScBAdOdGMh0LHEaMy4xaBTO0sFMKo0maEWgPgWY04C_NJmtwA/viewform?usp=sf_link)
 
-<figure><iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBAdOdGMh0LHEaMy4xaBTO0sFMKo0maEWgPgWY04C_NJmtwA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>" width="640" height="14138" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<figure class="video_container">
+  <iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBAdOdGMh0LHEaMy4xaBTO0sFMKo0maEWgPgWY04C_NJmtwA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>" width="640" height="14138" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </figure>
