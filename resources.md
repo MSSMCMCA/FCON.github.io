@@ -10,17 +10,16 @@ Based at the Icahn School of Medicine at Mount Sinai, CMCA supports students and
 
 ### Additional useful resources:
 
-#### Mount Sinai Office for Diversity and Inclusion
+#### <a href="https://www.mountsinai.org/about/diversity">Mount Sinai Office for Diversity and Inclusion</a>
 <p>The Office for Diversity and Inclusion is charged with supporting the Mount Sinai Health System in embracing the principles of diversity, equity, and inclusion (DEI) as key drivers for excellence and innovation for unrivaled health care delivery, medical and health education, and research.</p>
-* https://www.mountsinai.org/about/diversity
 
-#### Mount Sinai Faculty Diversity Council
+#### <a href="https://icahn.mssm.edu/about/diversity/faculty-council">Mount Sinai Faculty Diversity Council</a>
 <p>The Council’s mission is to promote diversity in faculty recruitment, retention, development, and inclusion. We focus on increasing the representation and advancement of groups underrepresented in medicine and research at all levels, from medical and graduate students and trainees through faculty in all departments, institutes, and administration.</p>
-* https://icahn.mssm.edu/about/diversity/faculty-council
 
-#### Addressing Racism: A Road Map for Action
+#### <a href="https://www.mountsinai.org/about/addressing-racism/road-map">Addressing Racism: A Road Map for Action</a>
 <p>The Road Map contains recommendations for six principles and 11 key strategies and supporting initiatives to create authentic and sustainable change at MSHS. The Road Map also recommends a structured framework to implement and monitor the initiatives, as well as a system of shared measurement to track their progress.</p>
-https://www.mountsinai.org/about/addressing-racism/road-map
+
+
 
 #### Instructions to make your own Diversify website
 * [DiversifyMicrobiology Read-Me](https://github.com/diversifymicrobiology/DiversifyMicrobiology.github.io)
