@@ -6,9 +6,9 @@ title: Faculty of Color Network (FCON) Database
 
 {::options parse_block_html="true" /}
 
-_**Welcome to the Icahn School of Medicine at Mount Sinai Faculty of Color Network (FCON) Database. We invite faculty and students to search for others underrepresented in medicine to foster community, make professional connections, and identify potential collaborators.
+Welcome to the Icahn School of Medicine at Mount Sinai Faculty of Color Network (FCON) Database. We invite faculty and students to search for others underrepresented in medicine to foster community, make professional connections, and identify potential collaborators.
 
-To search this database with the most functionality and ease, click on the link below (‘Open FCON Database’) and use the ‘Data’ → ‘Sort range’ option in the Google Slides menu to sort the data into your order of preference. Additionally, use the CTRL+F on a PC or Command⌘+F prompts on your keyboard to search for keywords, names, specialties, and more. If you need support navigating this database, please contact Ashley Michelle Fowler at ashley.fowler@mssm.edu for help.**_ 
+To search this database with the most functionality and ease, click on the link below (‘Open FCON Database’) and use the ‘Data’ → ‘Sort range’ option in the Google Slides menu to sort the data into your order of preference. Additionally, use the CTRL+F on a PC or Command⌘+F prompts on your keyboard to search for keywords, names, specialties, and more. If you need support navigating this database, please contact Ashley Michelle Fowler at ashley.fowler@mssm.edu for help.
 
 [Open FCON Database](https://docs.google.com/spreadsheets/d/1VBbamuEr_pIS4soZ9F5UKhUZ2jtS1kHuR6WkvwtNa6Q/edit?usp=sharing)
 
